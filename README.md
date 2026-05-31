@@ -4,6 +4,10 @@
 
 Built for the **CoERS IIT Madras Road Safety Hackathon 2026** — Problem Statement 3: Emergency Response Optimization.
 
+Teammates:
+Tejaswi K - B.Tech AI&DS
+Poornaa Shree Praveenraj - B.E CSE
+
 ---
 
 ## What RoadSOS Does
@@ -81,7 +85,7 @@ IITM hackathon/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/roadsos.git
+git clone https://github.com/Whostejaswi/roadsos.git
 cd roadsos
 ```
 
@@ -175,7 +179,7 @@ DB_CONFIG = {
 ### 5. Run the app
 
 ```bash
-cd "IITM hackathon"
+cd "RoadSOS"
 streamlit run app.py
 ```
 
@@ -240,15 +244,4 @@ Endpoints:
 | Innovation and additional features | Capability scoring, ETA, global applicability, smart fallbacks |
 | Information integration across countries | Tested across 7 countries, auto country detection |
 
----
 
-## Team
-
-Built for CoERS IIT Madras Road Safety Hackathon 2026
-Kumaraguru College of Technology — AI & Data Science, Batch 2024
-
----
-
-## License
-
-MIT License — open for extension and integration with government emergency infrastructure.
